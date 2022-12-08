@@ -84,4 +84,4 @@ if count < len(HANGMANPICS):
       O   
      \|/
       |
-     / \ """)
+     / \ """) 
